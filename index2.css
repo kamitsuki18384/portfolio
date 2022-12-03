@@ -5,12 +5,13 @@
 	box-sizing: border-box;
 }
 
-
+.isi{
+    background-color: ;
+}
 
 .nama{
     top: 3cm;
     position: relative;
-    left: 50px;
     height: 200px;
     align-items: center;
 }
@@ -20,7 +21,14 @@ li{
     font-size: 30px;
 }
 
-.ach,.skl{
+.kotak {
+    align-items: center;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.ktk{
     position: relative;
     margin-top: 2cm;
     left: 10px;
@@ -35,7 +43,9 @@ li{
     width: 450px;
     float: left;
     align-items: center;
+    width: 100%;
 }
+
 
 img{
 	width: 200px;
